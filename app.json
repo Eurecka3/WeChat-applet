@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "百度百科-化学",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
